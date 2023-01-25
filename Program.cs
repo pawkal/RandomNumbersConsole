@@ -20,7 +20,7 @@ namespace RandomNumbersConsole
             do
             {
 
-                Console.Write("Zgadnij Liczbę w przedziale 0 do 100 s :  ");
+                Console.Write("Zgadnij Liczbę w przedziale 0 do 100 :  ");
                 string p = Console.ReadLine();
 
                 int i = int.Parse(p);
